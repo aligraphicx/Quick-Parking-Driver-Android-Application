@@ -1,0 +1,435 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.airbnb.android:lottie:3.0.7] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\f7e55b4ffeb68b6360e0de642521a004\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\f411f5a27ccb660147045a802161ed23\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\864520e3c572b32d602a381f190a3e2a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:17:1-42:12
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\bb1f672334a36114934cc588fcf6ce40\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\61ff5263658bfc5a2ab296ba0ccf6b85\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\b1f2b05406ba545023961a5a94bdbba9\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\14ee1121f186b95a90ebcf6095728cee\AndroidManifest.xml:2:1-9:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:17:1-55:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\a0035330525d35756fb2d3ffd7739f13\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2257ec079ce3d864cda16118c1218207\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\540b15c316f6d20359e370ec3999ac9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\464ffb3a6cb6efaf6de8d3f16a4eaba8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2d442c9fadca4fd0d5ba528ec78ff98e\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\9843f2e327426223bf256900710271aa\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5144fe7a97a100ecbc11840a325b410f\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\79a88681daf449e9e4129d9987d01b9f\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\88857759db89b1a1087957ed8e082999\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5af9782068e2931b2b1165f18af9c0dd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\399d69bf7ef6560b609165b206c182dd\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\24aa65e789b2e541569ab096b3134524\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\0e4ac8f7d5935fd7afa44f437f82a5aa\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\01d2c4514f32449cb1fab4f8b8d5cbfa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\24019ddb534161a65812dd690e92a21d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\42d5400285e5d595e5f791d3b75fe2ce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\c27839694241a71aa0d26704dd98072a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\653123f1e6a582feb724759d45a3937e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\c0cd9ee3f3b2b4e5d0c7cb1c17a67424\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\6f803756cd5b273d2cad7b27d970cb67\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\26131c5ba255ef60135b9818848e1bd0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\0a3003137c8d44cb4e0c4ecab33716d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\b0ebeb4c05d6a50db155d2f360754512\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\e0964bcee966e272f5a75ef1d2f141d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\1e94e7787aaf83ea382f0328e17b3adf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\d1d0dc3bc841148ee02ea4d75e55c2ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\32b71d524f067a6c286764e8f8c8aff6\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\7065b9d675be7c4136514a7a4545b25f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cb59b1b3b19b69d616e9a36dda646142\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\4980428b76f65cd2aacc80e42b2d4a83\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\021b9704f11f870bfb1dbaf624bad4f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\6b949f8748045627ae8345861f178831\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cc42815ea8d9254684ddf7d7c57a2c8f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2c6f45f5c4250b2db472a3e4c1b982c5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\7d4d991623c2a8ad6ded8fa4ee38d8d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\639e0342b80cb06933c53a1d30036f46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\c25e562117fc4fe5b3a915906491295d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\19c27dd920e757647a798f05108b7b25\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\ab3402de19727e06388b64bcdb4d74e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\4f833acb549d6be86ad24cf47b3b4383\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+		INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\61ff5263658bfc5a2ab296ba0ccf6b85\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\61ff5263658bfc5a2ab296ba0ccf6b85\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\b1f2b05406ba545023961a5a94bdbba9\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\b1f2b05406ba545023961a5a94bdbba9\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:12:22-64
+application
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:14:5-43:19
+MERGED from [com.airbnb.android:lottie:3.0.7] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\f7e55b4ffeb68b6360e0de642521a004\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.0.7] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\f7e55b4ffeb68b6360e0de642521a004\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\864520e3c572b32d602a381f190a3e2a\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\864520e3c572b32d602a381f190a3e2a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:23:5-40:19
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\bb1f672334a36114934cc588fcf6ce40\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\bb1f672334a36114934cc588fcf6ce40\AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\14ee1121f186b95a90ebcf6095728cee\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\14ee1121f186b95a90ebcf6095728cee\AndroidManifest.xml:7:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:45:5-53:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\a0035330525d35756fb2d3ffd7739f13\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\a0035330525d35756fb2d3ffd7739f13\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2d442c9fadca4fd0d5ba528ec78ff98e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2d442c9fadca4fd0d5ba528ec78ff98e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\9843f2e327426223bf256900710271aa\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\9843f2e327426223bf256900710271aa\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5144fe7a97a100ecbc11840a325b410f\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5144fe7a97a100ecbc11840a325b410f\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\88857759db89b1a1087957ed8e082999\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\88857759db89b1a1087957ed8e082999\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5af9782068e2931b2b1165f18af9c0dd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5af9782068e2931b2b1165f18af9c0dd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\399d69bf7ef6560b609165b206c182dd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\399d69bf7ef6560b609165b206c182dd\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\32b71d524f067a6c286764e8f8c8aff6\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\32b71d524f067a6c286764e8f8c8aff6\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cb59b1b3b19b69d616e9a36dda646142\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cb59b1b3b19b69d616e9a36dda646142\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\4980428b76f65cd2aacc80e42b2d4a83\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\4980428b76f65cd2aacc80e42b2d4a83\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\32b71d524f067a6c286764e8f8c8aff6\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:17:9-41
+	tools:ignore
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:21:9-48
+	android:roundIcon
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.quickparkingdriver.PendingOrder
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.example.quickparkingdriver.Setting
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:23:9-45
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:23:19-42
+activity#com.example.quickparkingdriver.SupportCenter
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.example.quickparkingdriver.Notification
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:25:19-47
+activity#com.example.quickparkingdriver.QRCodeScanner
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:26:19-48
+activity#com.example.quickparkingdriver.Login
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:27:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:31:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:35:9-37:55
+	android:value
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:37:13-52
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:36:13-58
+activity#com.example.quickparkingdriver.OrderTracer
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:39:9-41:67
+	android:label
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:41:13-64
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:40:13-40
+activity#com.example.quickparkingdriver.MainActivity
+ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:42:9-50
+	android:name
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml:42:19-47
+uses-sdk
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+MERGED from [com.airbnb.android:lottie:3.0.7] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\f7e55b4ffeb68b6360e0de642521a004\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.0.7] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\f7e55b4ffeb68b6360e0de642521a004\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\f411f5a27ccb660147045a802161ed23\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\f411f5a27ccb660147045a802161ed23\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\864520e3c572b32d602a381f190a3e2a\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\864520e3c572b32d602a381f190a3e2a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:21:5-44
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\bb1f672334a36114934cc588fcf6ce40\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\bb1f672334a36114934cc588fcf6ce40\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\61ff5263658bfc5a2ab296ba0ccf6b85\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\61ff5263658bfc5a2ab296ba0ccf6b85\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\b1f2b05406ba545023961a5a94bdbba9\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\b1f2b05406ba545023961a5a94bdbba9\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\14ee1121f186b95a90ebcf6095728cee\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\14ee1121f186b95a90ebcf6095728cee\AndroidManifest.xml:5:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:19:5-43
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\a0035330525d35756fb2d3ffd7739f13\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\a0035330525d35756fb2d3ffd7739f13\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2257ec079ce3d864cda16118c1218207\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2257ec079ce3d864cda16118c1218207\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\540b15c316f6d20359e370ec3999ac9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\540b15c316f6d20359e370ec3999ac9f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\464ffb3a6cb6efaf6de8d3f16a4eaba8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\464ffb3a6cb6efaf6de8d3f16a4eaba8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2d442c9fadca4fd0d5ba528ec78ff98e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2d442c9fadca4fd0d5ba528ec78ff98e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\9843f2e327426223bf256900710271aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\9843f2e327426223bf256900710271aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5144fe7a97a100ecbc11840a325b410f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5144fe7a97a100ecbc11840a325b410f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\79a88681daf449e9e4129d9987d01b9f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\79a88681daf449e9e4129d9987d01b9f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\88857759db89b1a1087957ed8e082999\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\88857759db89b1a1087957ed8e082999\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5af9782068e2931b2b1165f18af9c0dd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5af9782068e2931b2b1165f18af9c0dd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\399d69bf7ef6560b609165b206c182dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\399d69bf7ef6560b609165b206c182dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\24aa65e789b2e541569ab096b3134524\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\24aa65e789b2e541569ab096b3134524\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\0e4ac8f7d5935fd7afa44f437f82a5aa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\0e4ac8f7d5935fd7afa44f437f82a5aa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\01d2c4514f32449cb1fab4f8b8d5cbfa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\01d2c4514f32449cb1fab4f8b8d5cbfa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\24019ddb534161a65812dd690e92a21d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\24019ddb534161a65812dd690e92a21d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\42d5400285e5d595e5f791d3b75fe2ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\42d5400285e5d595e5f791d3b75fe2ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\c27839694241a71aa0d26704dd98072a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\c27839694241a71aa0d26704dd98072a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\653123f1e6a582feb724759d45a3937e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\653123f1e6a582feb724759d45a3937e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\c0cd9ee3f3b2b4e5d0c7cb1c17a67424\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\c0cd9ee3f3b2b4e5d0c7cb1c17a67424\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\6f803756cd5b273d2cad7b27d970cb67\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\6f803756cd5b273d2cad7b27d970cb67\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\26131c5ba255ef60135b9818848e1bd0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\26131c5ba255ef60135b9818848e1bd0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\0a3003137c8d44cb4e0c4ecab33716d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\0a3003137c8d44cb4e0c4ecab33716d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\b0ebeb4c05d6a50db155d2f360754512\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\b0ebeb4c05d6a50db155d2f360754512\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\e0964bcee966e272f5a75ef1d2f141d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\e0964bcee966e272f5a75ef1d2f141d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\1e94e7787aaf83ea382f0328e17b3adf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\1e94e7787aaf83ea382f0328e17b3adf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\d1d0dc3bc841148ee02ea4d75e55c2ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\d1d0dc3bc841148ee02ea4d75e55c2ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\32b71d524f067a6c286764e8f8c8aff6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\32b71d524f067a6c286764e8f8c8aff6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\7065b9d675be7c4136514a7a4545b25f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\7065b9d675be7c4136514a7a4545b25f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cb59b1b3b19b69d616e9a36dda646142\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cb59b1b3b19b69d616e9a36dda646142\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\4980428b76f65cd2aacc80e42b2d4a83\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\4980428b76f65cd2aacc80e42b2d4a83\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\021b9704f11f870bfb1dbaf624bad4f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\021b9704f11f870bfb1dbaf624bad4f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\6b949f8748045627ae8345861f178831\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\6b949f8748045627ae8345861f178831\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cc42815ea8d9254684ddf7d7c57a2c8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cc42815ea8d9254684ddf7d7c57a2c8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2c6f45f5c4250b2db472a3e4c1b982c5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\2c6f45f5c4250b2db472a3e4c1b982c5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\7d4d991623c2a8ad6ded8fa4ee38d8d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\7d4d991623c2a8ad6ded8fa4ee38d8d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\639e0342b80cb06933c53a1d30036f46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\639e0342b80cb06933c53a1d30036f46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\c25e562117fc4fe5b3a915906491295d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\c25e562117fc4fe5b3a915906491295d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\19c27dd920e757647a798f05108b7b25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\19c27dd920e757647a798f05108b7b25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\ab3402de19727e06388b64bcdb4d74e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\ab3402de19727e06388b64bcdb4d74e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\4f833acb549d6be86ad24cf47b3b4383\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\4f833acb549d6be86ad24cf47b3b4383\AndroidManifest.xml:20:5-44
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+		INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+		ADDED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+		INJECTED from G:\QuickParkingBackups\QuickParkingDriver\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\969c135903d26422a295f002b554daf6\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\61ff5263658bfc5a2ab296ba0ccf6b85\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\b1f2b05406ba545023961a5a94bdbba9\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\b1f2b05406ba545023961a5a94bdbba9\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\61ff5263658bfc5a2ab296ba0ccf6b85\AndroidManifest.xml:22:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\cdd88aefb1c72a4c91627ffb8fbb21b1\AndroidManifest.xml:34:13-50
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\df8a3f19d198c622435308818a1f768b\AndroidManifest.xml:47:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\9843f2e327426223bf256900710271aa\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\9843f2e327426223bf256900710271aa\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\9843f2e327426223bf256900710271aa\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\9843f2e327426223bf256900710271aa\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5144fe7a97a100ecbc11840a325b410f\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5144fe7a97a100ecbc11840a325b410f\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5144fe7a97a100ecbc11840a325b410f\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5144fe7a97a100ecbc11840a325b410f\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\5144fe7a97a100ecbc11840a325b410f\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\399d69bf7ef6560b609165b206c182dd\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\399d69bf7ef6560b609165b206c182dd\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\MUHAMMAD BABAR ALI\.gradle\caches\transforms-2\files-2.1\399d69bf7ef6560b609165b206c182dd\AndroidManifest.xml:24:13-58

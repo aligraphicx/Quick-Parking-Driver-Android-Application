@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "48083144115",
+    "firebase_url": "https://quick-parking-driver.firebaseio.com",
+    "project_id": "quick-parking-driver",
+    "storage_bucket": "quick-parking-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48083144115:android:58331a75d5dba028540fc6",
+        "android_client_info": {
+          "package_name": "com.example.quickparkingdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48083144115-mg3u1n15ulen7j5ks8gnh177nrukh3qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quickparkingdriver",
+            "certificate_hash": "d7bdb23bd04afec88ee154da457da1dca2f704be"
+          }
+        },
+        {
+          "client_id": "48083144115-2umlmhgd776e7pnshe622os5ebkqa0cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-LYoHeIdblT3ZP7d8WYQNrel63q2iLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48083144115-2umlmhgd776e7pnshe622os5ebkqa0cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
